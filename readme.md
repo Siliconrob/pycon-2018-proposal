@@ -20,14 +20,14 @@ _Guidelines: 1–2 paragraphs that should answer three questions: (1) Who is thi
 _Committee note: The “Audience” section helps the program committee get a sense of whether your talk is geared more at novices or experienced individuals in a given subject. (We need a balance of both lower-level and advanced talks to make a great PyCon!) It also helps us evaluate the relevance of your talk to the Python community._
 
 ## Outline
-1. **Let's talk about maps** (3 minutes)
+1. **Let's Talk About Maps** (3 minutes)
     * **Maps are Cool, Useful, and Beautiful** I've always loved looking at maps, which sparked my interest in GIS.
     * **Story Telling with Maps** Maps can tell long and interesting stories spanning spatial and temporal dimensions.
     * **Maps in Modern Times** On our phones, computers, everywhere. We use maps every day to choose destinations and get directions.
     * **Historical Spatial Analysis** Maps have been used for hundreds of years to solve spatial problems.
 
-2. **Hasn't everything already been mapped?** (5 minutes)
-    * **There are infinitely-many maps to be made** It is not possible for all maps to be made. GIS departments exist in many industries keeping spatial data and producing maps. Let's make a distinction between reference maps and thematic maps.
+2. **Hasn't Everything Already Been Mapped?** (5 minutes)
+    * **There are Infinitely-Many Maps to be Made** It is not possible for all maps to be made. GIS departments exist in many industries keeping spatial data and producing maps. Let's make a distinction between reference maps and thematic maps.
     * **Reference Maps** Reference maps are used for reference, they show what is actually there. Several examples will be given. I'll give Planet basemaps an example, since Planet uses Python to find the best satellite images and stitch them together.
     * **Thematic Maps** Thematic maps have some theme on top of a reference map. Several examples will be given.
     * **Non-Earth Maps** There are also maps of other planets and galaxies, and even fictional places.
@@ -47,7 +47,7 @@ _Committee note: The “Audience” section helps the program committee get a se
     * shapely - a Python package for manipulation and analysis of planar geometric objects.
 
 5. **How to Lie with Maps and Conclusions** (2 minutes)
-    * **Maps are models** All maps are inherently wrong because they leave out some variables. Maps can also be used to intentionally mislead.
+    * **Maps are Models** All maps are inherently wrong because they leave out some variables. Maps can also be used to intentionally mislead.
     * **Conclusions** Now you know about GIS and Python mapping libraries. Happy mapping!
 
 _Guidelines: The “outline” is a skeleton of your talk that is as detailed as possible, including rough timings for different sections._
