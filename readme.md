@@ -67,17 +67,17 @@ I am a GIS professional and Python advocate with 10+ years of experience working
 
 * **Experience presenting similar materials**
 
-*Links to recordings and slides:*
+*Links to existing similar materials:*
 
-Intro to GIS for Maptime Seattle (2017): http://maptimesea.github.io/img/IntroToGIS_MaptimeSea_20170906.pdf
+* Intro to GIS for Maptime Seattle (2017): http://maptimesea.github.io/img/IntroToGIS_MaptimeSea_20170906.pdf
 
-A simple GIS workflow in Python and R for the CUGOS Spring Fling (2017): https://github.com/christyheaton/Cugos_SpringFling_2017
+* A simple GIS workflow in Python and R for the CUGOS Spring Fling (2017): https://github.com/christyheaton/Cugos_SpringFling_2017
 
 *Videos of me speaking:*
 
-Data Disarray for UW GIS Day 2015: https://www.youtube.com/watch?v=SYCi5z05hu4
+* Data Disarray for UW GIS Day 2015: https://www.youtube.com/watch?v=SYCi5z05hu4
 
-Networking for Interesting Career Opportunities for UW GIS Day 2014: https://www.youtube.com/watch?v=z-q4znBqokw&t=1s
+* Networking for Interesting Career Opportunities for UW GIS Day 2014: https://www.youtube.com/watch?v=z-q4znBqokw&t=1s
 
 * **Specific needs or special requests**
 
