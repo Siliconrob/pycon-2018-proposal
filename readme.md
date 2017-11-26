@@ -6,7 +6,7 @@
 _Guidelines: Puns, jokes, or “hooks” in titles are okay, but make sure that if all someone knew was the title, they still would have some idea what the presentation is about._
 
 ## Description
-Maps are a powerful tool that we use every day. Python is well-equipped to handle spatial data and has there are plenty of libraries to help you perform spatial analysis and create beautiful maps. In this talk, we'll discover the fascinating world of GIS by covering topics like projections and coordinate systems, best practices for map making, static maps verses web maps, and how Python can be used to solve spatial problems and visualize spatial data.
+Maps showing all kinds of data are powerful tools that we use in various parts of our lives every day. Python is well-equipped to handle spatial data and has plenty of libraries to help you perform spatial analysis and create beautiful maps. In this talk, we'll discover the fascinating world of GIS by covering topics like projections and coordinate systems, best practices for map making, static maps verses web maps, and how Python can be used to solve spatial problems and visualize spatial data.
 
 _Guidelines: Both your title and this description are made public and displayed in the conference program to help attendees decide whether they are interested in this presentation. Limit this description to a few concise paragraphs._
 
@@ -24,7 +24,7 @@ _Committee note: The “Audience” section helps the program committee get a se
     * **Maps are Cool, Useful, and Beautiful** I've always loved looking at maps, which sparked my interest in GIS.
     * **Story Telling with Maps** Maps can tell long and interesting stories spanning spatial and temporal dimensions.
     * **Maps in Modern Times** On our phones, computers, everywhere. We use maps every day to choose destinations and get directions.
-    * **Spatial Analysis in history"** Maps have been used for hundreds of years to solve spatial problems.
+    * **Historical Spatial Analysis** Maps have been used for hundreds of years to solve spatial problems.
 
 2. **Hasn't everything already been mapped?** (6 minutes)
     * **There are infinitely-many maps to be made** It is not possible for all maps to be made. GIS departments exist in many industries keeping spatial data and producing maps. Let's make a distinction between reference maps and thematic maps.
@@ -47,8 +47,8 @@ _Committee note: The “Audience” section helps the program committee get a se
     * shapely - a Python package for manipulation and analysis of planar geometric objects.
 
 5. **How to Lie with Maps and Conclusions** (2 minutes)
-        * **Maps are models** All maps are inherently wrong because they leave out some variables. Maps can also be used to intentionally mislead.
-        * **Conclusions** Now you know about GIS and Python mapping libraries. Happy mapping!
+    * **Maps are models** All maps are inherently wrong because they leave out some variables. Maps can also be used to intentionally mislead.
+    * **Conclusions** Now you know about GIS and Python mapping libraries. Happy mapping!
 
 _Guidelines: The “outline” is a skeleton of your talk that is as detailed as possible, including rough timings for different sections._
 
